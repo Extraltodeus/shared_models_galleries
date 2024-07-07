@@ -10,6 +10,4 @@ https://www.patreon.com/posts/iris-lux-v1142-107650350
 
 I created this model by making a base with the polynomial regression function which you may find [here](https://github.com/Extraltodeus/Conditioning-token-experiments-for-ComfyUI/blob/main/alternative_merging_methods.py). I then created a bias with differences in between realistic and not realistic models so to shift it to become cartoonish.
 
-I must say that I have never tried any model of that sort that seemed just so easily good at anything but maybe it's just me 🤪
-
 https://www.patreon.com/posts/cartoonish-model-107649669
