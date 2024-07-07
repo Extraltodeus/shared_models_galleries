@@ -1,5 +1,7 @@
 This repository is a simple gallery for the models that I share on Patreon.
 
+Each folder has a readme displaying the images.
+
 # Iris Lux v1142:
 
 My latest "go to" model. Polyvalent, various and precise. Capable of art as well as photorealism.
