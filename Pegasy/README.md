@@ -14,8 +14,6 @@ This folder contains the following images:
 
 ![ComfyUI_00302_.png](ComfyUI_00302_.png)
 
-![ComfyUI_00304_.png](ComfyUI_00304_.png)
-
 ![ComfyUI_00305_.png](ComfyUI_00305_.png)
 
 ![ComfyUI_00310_.png](ComfyUI_00310_.png)
