@@ -1,5 +1,11 @@
 This repository is a simple gallery for the models that I share on Patreon.
 
+All are capable of producing an extremely wide range of high quality content which includes NFSW.
+
+Only exceptions being Pegasy not capable of being photorealistic as to maximize the style.
+
+Pegasy can be merged with regular SDXL models despite fitting into the "pony" category.
+
 Each folder has a readme displaying the images.
 
 # Iris Lux v1142:
@@ -7,6 +13,13 @@ Each folder has a readme displaying the images.
 My latest "go to" model. Polyvalent, various and precise. Capable of art as well as photorealism.
 
 https://www.patreon.com/posts/iris-lux-v1142-107650350
+
+
+# Iris Lux v1051:
+
+A very photorealistic model, my previous best.
+
+https://www.patreon.com/posts/iris-lux-1051-104239837
 
 # Pegasy:
 
