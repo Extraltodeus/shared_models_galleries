@@ -4,9 +4,7 @@ All are capable of producing an extremely wide range of high quality content whi
 
 Only exceptions being Pegasy not capable of being photorealistic as to maximize the style.
 
-Pegasy can be merged with regular SDXL models despite fitting into the "pony" category.
-
-Each folder has a readme displaying the images.
+**Each folder has a readme displaying the images.** (scroll down)
 
 # Iris Lux v1142:
 
@@ -24,6 +22,8 @@ https://www.patreon.com/posts/iris-lux-1051-104239837
 # Pegasy:
 
 I created this model by making a base with the polynomial regression function which you may find [here](https://github.com/Extraltodeus/Conditioning-token-experiments-for-ComfyUI/blob/main/alternative_merging_methods.py). I then created a bias with differences in between realistic and not realistic models so to shift it to become cartoonish.
+
+Pegasy can be merged with regular SDXL models despite fitting into the "pony" category.
 
 https://www.patreon.com/posts/cartoonish-model-107649669
 
