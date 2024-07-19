@@ -17,7 +17,7 @@ https://www.patreon.com/posts/iris-lux-v1142-107650350
 
 A very photorealistic model, my previous best.
 
-https://www.patreon.com/posts/iris-lux-1051-104239837
+[CIVITAI LINK](https://civitai.com/models/201287/iris-lux-polyvalent-prototyperealisticsfwartnsfwpornno-refiner-needed?modelVersionId=656689)
 
 # Pegasy:
 
